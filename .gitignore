@@ -21,9 +21,5 @@ Build/
 *.swp
 *~.nib
 
-# Ignore compiled asset files
-*.uasset
-*.umap
-
 # Ignore macOS .DS_Store files
 .DS_Store
